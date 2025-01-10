@@ -1,4 +1,6 @@
-# Navaantrix- Task 1 : CRUD Operations on Sales Dataset
+# Navaantrix- 
+
+Task 1 : CRUD Operations on Sales Dataset
 Perform CRUD operations on a sales dataset stored in a CSV file. You can choose any Python
 library or tool for database operations or perform them directly on the CSV file. Implement
 the following operations:
