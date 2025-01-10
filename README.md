@@ -10,7 +10,7 @@ Provide a Python script demonstrating each CRUD operation with relevant comments
 explanations.
 
 #About the Data set that is used in this task.
-This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon
+This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon:
 1. product_id - Product ID
 2. product_name - Name of the Product
 3. category - Category of the Product
